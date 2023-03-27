@@ -1,0 +1,6 @@
+/Users/sean/vs_workspace/IPC/boost_asio/CMakeFiles/client2.out.dir
+/Users/sean/vs_workspace/IPC/boost_asio/CMakeFiles/server2.out.dir
+/Users/sean/vs_workspace/IPC/boost_asio/CMakeFiles/client.out.dir
+/Users/sean/vs_workspace/IPC/boost_asio/CMakeFiles/server.out.dir
+/Users/sean/vs_workspace/IPC/boost_asio/CMakeFiles/edit_cache.dir
+/Users/sean/vs_workspace/IPC/boost_asio/CMakeFiles/rebuild_cache.dir
